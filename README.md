@@ -1,6 +1,6 @@
 # Cadastro de Usuários - Projeto(DIO)
 
-### Este projeto foi feito exclusivamente para aplicar os conhecimentos sobre requisições api, routes, react hooks e redux. Portanto, desconsidere quaisquer esperanças de uma interface maravilhosa.
+### Este projeto foi feito exclusivamente para aplicar os conhecimentos sobre requisições api, routes, styled-components, react hooks e redux. Portanto, desconsidere quaisquer esperanças de uma interface maravilhosa.
 
 ## Referências:
 
